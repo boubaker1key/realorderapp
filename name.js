@@ -1,6 +1,6 @@
 {
   "users": {
-    "zoicars": false,
+    "zoicars": true,
     "ahmed": false,
     "sara": true,
     "real": true
